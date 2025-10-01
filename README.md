@@ -4,7 +4,13 @@ A small Python game where you can collect coins and have fun!
 
 ## How to Play
 
-- Use the **arrow keys** at the **bottom-right** of your keyboard to move your character.  
+## How to Play
+
+- Use the arrow keys to move your character:
+  - **↑ Up Arrow** → move up
+  - **↓ Down Arrow** → move down
+  - **← Left Arrow** → move left
+  - **→ Right Arrow** → move right
 
 - Collect coins that appear in the game.  
 
